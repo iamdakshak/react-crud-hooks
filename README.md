@@ -1,8 +1,8 @@
 # React CRUD Project using React Hooks
 This project uses React Hooks 
 
-## For live demo :
-    https://dakshaknagrale.in/react-crud-hooks/
+## For live demo : 
+http://dakshaknagrale.in/react-crud-hooks/
 
 ## Setting up (locally):
     1. `git clone https://github.com/iamdakshak/react-crud-hooks.git`
